@@ -1,0 +1,34 @@
+Technologies :
+
+1. C/C++
+2. JAVA - Servlet, Jdbc, JSP, Thymeleaf, Spring MVC, Springboot, Webservices, Microservices, Spring Security
+3. Angular - Html, css/scss, js, jquery, ts, bootstrap, ajax calling, json
+4. React
+5. JS/TS
+6. MySQL, MySQL Server, PostgreSQL
+7. Data Struture and algorithm
+8. Design Patterns
+
+
++Additional :
+
+1. Docker - docker container, docker image
+2. Jira
+3. Agile and scrum methodology
+4. AWS - S3 bucket, 	
+5. Python
+6. Git/github
+
+
+
+
+CDAC Module:
+1. Mean Stack :
+	M- MySQL
+	E- ExpressJs
+	A- Angular
+	N- NodeJs
+2. dotNet
+
+
+
